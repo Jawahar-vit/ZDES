@@ -1,0 +1,9 @@
+CLASS zbp_des_travel_i DEFINITION PUBLIC ABSTRACT FINAL FOR BEHAVIOR OF zdes_travel_i.
+protected section.
+private section.
+ENDCLASS.
+
+
+
+CLASS ZBP_DES_TRAVEL_I IMPLEMENTATION.
+ENDCLASS.
